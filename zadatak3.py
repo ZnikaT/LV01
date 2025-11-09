@@ -1,0 +1,1 @@
+print("ovo je slučjano dodana skripta")
